@@ -1,6 +1,6 @@
 # activate-URL
 
-This is a project I did not write.  It is by Joel Mueller and was posted on CFLib. ]
+This is a project I did not write.  It is by Joel Mueller and was posted on CFLib. 
 http://www.cflib.org/udf/ActivateURL
 
 I added it simply as an example of how to turn a UDF into a simple package that is isntallable via CommandBox as part of this CommandBox Connection webinar.:"
